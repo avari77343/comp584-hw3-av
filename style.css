@@ -1,0 +1,16 @@
+/* Small-screen fallback styling. The email layout itself uses inline CSS and tables. */
+html, body {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+@media screen and (max-width: 620px) {
+  h1 {
+    font-size: 28px !important;
+  }
+}
