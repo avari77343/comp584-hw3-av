@@ -8,9 +8,7 @@ This repository is the HW3 version of the HW2 email assignment.
 
 ## GitHub Pages
 
-**GitHub Pages:** `https://YOUR-USERNAME.github.io/comp-584-hw3-av/`
-
-Replace `YOUR-USERNAME` with your GitHub username after publishing.
+**GitHub Pages:** https://YOUR-USERNAME.github.io/comp-584-hw3-av/
 
 ## HW3 Requirements Implemented
 
