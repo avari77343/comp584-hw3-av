@@ -8,7 +8,7 @@ This repository is the HW3 version of the HW2 email assignment.
 
 ## GitHub Pages
 
-**GitHub Pages:** https://avari77343.github.io/comp-584-hw3-av/
+**GitHub Pages:** https://avari77343.github.io/comp584-hw3-av/
 
 ## HW3 Requirements Implemented
 
